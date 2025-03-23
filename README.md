@@ -10,4 +10,4 @@
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/derek-schramm/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat)](https://yourportfolio.com)
+<!---[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat)](https://yourportfolio.com)--->
