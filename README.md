@@ -1,6 +1,6 @@
 # Hi, I'm Derek! 👋
 
-🚀 Software Developer | Cybersecurity Enthusiast  
+🚀 Software Engineer | Cybersecurity Enthusiast  
 📚 Computer Science Senior at Oakland University
 
 ### 🔧 Technologies & Tools
