@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Derek! 👋
 
-<!--
-**DRS2503/DRS2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | Cybersecurity Enthusiast  
+📚 Computer Science Major at Oakland University  
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- 🖥️ **Languages:** Python, Java, Php, Html, javascript, React Native.
+- 🔐 **Cybersecurity:** Classes in Software Security, Information Security, and love Capture the Flag events
+- ⚡ **Other Skills:** Git, bash, linux, windows 11, vs code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustinDev&show_icons=true&theme=dark)
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat)](https://yourportfolio.com)
