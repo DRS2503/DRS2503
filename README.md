@@ -1,7 +1,7 @@
 # Hi, I'm Derek! 👋
 
 🚀 Software Developer | Cybersecurity Enthusiast  
-📚 Computer Science Major at Oakland University  
+📚 Computer Science Senior at Oakland University
 
 ### 🔧 Technologies & Tools
 - 🖥️ **Languages:** Python, Java, Php, Html, javascript, React Native.
