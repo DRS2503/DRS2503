@@ -1,4 +1,4 @@
-# Hi, I'm Derek! 👋
+# Hi, I'm Derek! 
 
 ### Technologies & Tools
 -  **Languages:** HTML, CSS, JavaScript, python, Java
